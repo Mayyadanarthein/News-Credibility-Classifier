@@ -39,4 +39,5 @@ def main():
         else:
             st.warning("Please enter some text to analyze")
 
-if __name__
+if __name__ == "__main__":   
+    main()   
